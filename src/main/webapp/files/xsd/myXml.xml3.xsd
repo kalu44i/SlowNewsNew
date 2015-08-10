@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://purl.org/dc/elements/1.1/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="creator">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="Gordon Kelly, Contributor"/>
+        <xs:enumeration value="Erik Kain, Contributor"/>
+        <xs:enumeration value="Dave Thier, Contributor"/>
+        <xs:enumeration value="Dina Medland, Contributor"/>
+        <xs:enumeration value="Lauren Orsini, Contributor"/>
+        <xs:enumeration value="Erika Morphy, Contributor"/>
+        <xs:enumeration value="Niall McCarthy, Contributor"/>
+        <xs:enumeration value="Steve Forbes, Forbes Staff"/>
+        <xs:enumeration value="Rob Asghar, Contributor"/>
+        <xs:enumeration value="Ewan Spence, Contributor"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+</xs:schema>

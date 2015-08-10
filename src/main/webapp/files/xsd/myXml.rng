@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" ns="" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://relaxng.org/ns/structure/1.0">
+    <start>
+        <element name="rss">
+            <attribute name="version"/>
+            <element name="channel">
+                <ref name="link"/>
+                <element name="atom:link">
+                    <attribute name="href"/>
+                    <attribute name="rel"/>
+                    <attribute name="type"/>
+                </element>
+                <ref name="title"/>
+                <ref name="description"/>
+                <element name="copyright">
+                    <text/>
+                </element>
+                <oneOrMore>
+                    <element name="item">
+                        <ref name="link"/>
+                        <ref name="title"/>
+                        <ref name="description"/>
+                        <element name="dc:creator">
+                            <text/>
+                        </element>
+                        <element name="atom:author">
+                            <element name="atom:name">
+                                <text/>
+                            </element>
+                            <element name="atom:url">
+                                <text/>
+                            </element>
+                        </element>
+                        <element name="guid">
+                            <text/>
+                        </element>
+                        <element name="pubDate">
+                            <text/>
+                        </element>
+                        <element name="atom:updated">
+                            <text/>
+                        </element>
+                        <element name="content:encoded">
+                            <text/>
+                        </element>
+                        <element name="media:content">
+                            <attribute name="url"/>
+                            <element name="media:thumbnail">
+                                <attribute name="url"/>
+                            </element>
+                        </element>
+                    </element>
+                </oneOrMore>
+            </element>
+        </element>
+    </start>
+    <define name="link">
+        <element name="link">
+            <text/>
+        </element>
+    </define>
+    <define name="title">
+        <element name="title">
+            <text/>
+        </element>
+    </define>
+    <define name="description">
+        <element name="description">
+            <text/>
+        </element>
+    </define>
+</grammar>

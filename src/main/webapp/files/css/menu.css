@@ -1,0 +1,50 @@
+.top_panel {
+    width: 100%;
+    height: 70px;
+    background-color: #eeeeee;
+    margin: 0;
+    display: inline-flex;
+
+}
+
+.top_panel_save {
+    width: 100%;
+    height: 70px;
+    background-color: #269abc;
+    margin: 0;
+    display: none;
+}
+
+.menu {
+    margin: auto;
+}
+
+.menu_save {
+    margin: auto;
+}
+
+.menu a {
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.menu_save a {
+    margin-right: 20px;
+    font-size: 20px;
+    color: #d9edf7;
+}
+
+.menu_save a:hover {
+    text-decoration: none;
+}
+
+
+
+
+.menu a:hover {
+    text-decoration: none;
+}
+
+.btn_save {
+    display: none;
+}

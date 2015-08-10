@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.w3.org/2005/Atom" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="author">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="atom:name" xmlns:atom="http://www.w3.org/2005/Atom"/>
+        <xs:element ref="atom:url" xmlns:atom="http://www.w3.org/2005/Atom"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="Gordon Kelly, Contributor"/>
+        <xs:enumeration value="Erik Kain, Contributor"/>
+        <xs:enumeration value="Dave Thier, Contributor"/>
+        <xs:enumeration value="Dina Medland, Contributor"/>
+        <xs:enumeration value="Lauren Orsini, Contributor"/>
+        <xs:enumeration value="Erika Morphy, Contributor"/>
+        <xs:enumeration value="Niall McCarthy, Contributor"/>
+        <xs:enumeration value="Steve Forbes, Forbes Staff"/>
+        <xs:enumeration value="Rob Asghar, Contributor"/>
+        <xs:enumeration value="Ewan Spence, Contributor"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+  <xs:element name="updated" type="xs:string"/>
+  <xs:element name="link">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute type="xs:string" name="href"/>
+          <xs:attribute type="xs:string" name="rel"/>
+          <xs:attribute type="xs:string" name="type"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="url">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="http://www.forbes.com/sites/gordonkelly/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/erikkain/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/davidthier/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/dinamedland/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/laurenorsini/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/erikamorphy/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/niallmccarthy/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/steveforbes/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/robasghar/"/>
+        <xs:enumeration value="http://www.forbes.com/sites/ewanspence/"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+</xs:schema>

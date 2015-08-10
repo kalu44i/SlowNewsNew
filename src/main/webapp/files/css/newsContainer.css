@@ -1,0 +1,78 @@
+div.news_container {
+    width: 60%;
+    margin: 20px auto 0 auto;
+    padding-bottom: 30px;
+
+}
+
+.news {
+    height: auto;
+    width: 100%;
+    border: 1px solid;
+    border-color: #CDD1DA;
+    -webkit-box-shadow: 3px 3px 26px -1px rgba(0,0,0,0.45);
+    -moz-box-shadow: 3px 3px 26px -1px rgba(0,0,0,0.45);
+    box-shadow: 3px 3px 26px -1px rgba(0,0,0,0.45);
+    margin: 15px auto 0 auto;
+    padding: 10px;
+    display: table;
+}
+
+.news:hover {
+    background-color: #f7f7f7;
+}
+
+.head_container {
+    display: inherit;
+    width: auto;
+    float: left;
+    font-size: 22px;
+}
+
+.data_container {
+    float: right;
+    width: auto;
+    display: inherit;
+    font-size: 14px;
+}
+
+.message_container {
+    float: left;
+    width: 100%;
+    display: inherit;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.add_to_achieve {
+    float: left;
+    margin-right: 10px;
+    background-color: #a7cbff;
+    border-radius: 3px;
+}
+
+.add_to_achieve:hover {
+    float: left;
+    margin-right: 10px;
+    background-color: #92b8ff;
+}
+
+.news .checkbox_container {
+    float: left;
+    width: 10%;
+}
+
+.news .info_container {
+    float: right;
+    width: 90%;
+}
+
+.news-link  {
+    color: #245269;
+}
+
+.news-link:hover  {
+    color: #204d74;
+}
+
+

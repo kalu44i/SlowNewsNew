@@ -1,0 +1,280 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <link>http://www.forbes.com/most-popular/</link>
+        <atom:link href="http://www.forbes.com/most-popular/feed" rel="self" type="application/rss+xml"/>
+        <title>Forbes.com: Most popular stories</title>
+        <description>Most popular stories from Forbes.com</description>
+        <copyright>Copyright 2015 Forbes LLC</copyright>
+        <item>
+            <link>
+                http://www.forbes.com/sites/gordonkelly/2015/07/25/windows-10-automatic-update-problems/
+            </link>
+            <title>
+                Windows 10 Automatic Updates Start Causing Problems
+            </title>
+            <description>
+                Microsoft's controversial update policy has its first victims.
+            </description>
+            <dc:creator>Gordon Kelly, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Gordon Kelly, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/gordonkelly/</atom:url>
+            </atom:author>
+            <guid>55b3b70be4b0dee068204872</guid>
+            <pubDate>Sat, 25 Jul 2015 13:10:00 -0400</pubDate>
+            <atom:updated>2015-07-25T13:55:06-04:00</atom:updated>
+            <content:encoded>
+                Microsoft's controversial update policy has its first victims.
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/gordonkelly/files/2015/06/Windows-10-free-1940x1090.png">
+                <media:thumbnail url="http://blogs-images.forbes.com/gordonkelly/files/2015/06/Windows-10-free-1940x1090.png"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/erikkain/2015/07/26/gamers-should-be-worried-about-windows-10-automatic-updates/
+            </link>
+            <title>
+                Gamers Should Be Worried About Windows 10 Automatic Updates
+            </title>
+            <description>
+                Windows 10 has automatic updates that can't be stopped, leading to problems that could impact gamers with high-end graphics cards.
+            </description>
+            <dc:creator>Erik Kain, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Erik Kain, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/erikkain/</atom:url>
+            </atom:author>
+            <guid>55b514a5e4b0dee068204b46</guid>
+            <pubDate>Sun, 26 Jul 2015 13:46:00 -0400</pubDate>
+            <atom:updated>2015-07-26T13:46:20-04:00</atom:updated>
+            <content:encoded>
+                Windows 10 has automatic updates that can't be stopped, leading to problems that could impact gamers with high-end graphics cards.
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/erikkain/files/2015/07/Windows-10.png">
+                <media:thumbnail url="http://blogs-images.forbes.com/erikkain/files/2015/07/Windows-10.png"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/davidthier/2015/07/26/the-xbox-oneps4-console-war-officially-enters-a-giant-new-territory/
+            </link>
+            <title>
+                The Xbox One/PS4 Console War Officially Enters A Giant New Territory
+            </title>
+            <description>
+                image source: Wikipedia China has officially lifted the 15-year nationwide ban on video game consoles, opening the doors for Sony, Microsoft and Nintendo to start selling the PS4, Xbox One and Wii U to the most populous nation on Earth. The Wall Street Journal reported the news first. China had been experimenting [...]
+            </description>
+            <dc:creator>Dave Thier, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Dave Thier, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/davidthier/</atom:url>
+            </atom:author>
+            <guid>55b4ff16e4b0dee068204ae3</guid>
+            <pubDate>Sun, 26 Jul 2015 11:56:00 -0400</pubDate>
+            <atom:updated>2015-07-26T11:56:40-04:00</atom:updated>
+            <content:encoded>
+                image source: Wikipedia China has officially lifted the 15-year nationwide ban on video game consoles, opening the doors for Sony, Microsoft and Nintendo to start selling the PS4, Xbox One and Wii U to the most populous nation on Earth. The Wall Street Journal reported the news first. China had been experimenting [...]
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/davidthier/files/2015/07/Flag_of_the_Peoples_Republic_of_China.svg_.png">
+                <media:thumbnail url="http://blogs-images.forbes.com/davidthier/files/2015/07/Flag_of_the_Peoples_Republic_of_China.svg_.png"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/dinamedland/2015/07/24/a-digital-quotient-to-better-measure-good-corporate-governance/
+            </link>
+            <title>
+                A 'Digital Quotient' To Better Measure Good Corporate Governance?
+            </title>
+            <description>
+                Companies have lofty ambitions: they expect digital initiatives to deliver annual growth and cost efficiencies of 5% to 10% or more in the next three to five years, suggests research. But when it comes to their digital maturity, it's a slightly different story. Mckinsey research on business expectation has been followed [...]
+            </description>
+            <dc:creator>Dina Medland, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Dina Medland, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/dinamedland/</atom:url>
+            </atom:author>
+            <guid>55b24c1fe4b0dee06820435f</guid>
+            <pubDate>Fri, 24 Jul 2015 12:56:00 -0400</pubDate>
+            <atom:updated>2015-07-24T13:02:25-04:00</atom:updated>
+            <content:encoded>
+                Companies have lofty ambitions: they expect digital initiatives to deliver annual growth and cost efficiencies of 5% to 10% or more in the next three to five years, suggests research. But when it comes to their digital maturity, it's a slightly different story. Mckinsey research on business expectation has been followed [...]
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/dinamedland/files/2015/07/QWeb_DQ_ex1-dh-1940x1535.jpg">
+                <media:thumbnail url="http://blogs-images.forbes.com/dinamedland/files/2015/07/QWeb_DQ_ex1-dh-1940x1535.jpg"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/laurenorsini/2015/07/23/video-game-characters-get-real-bodies-they-still-look-great/
+            </link>
+            <title>
+                Video Game Characters Get 'Real' Bodies; They Still Look Great
+            </title>
+            <description>
+                Anything is possible in the fantasy world of video games. So why is it so hard to imagine Lara Croft with a muffin top or Cortana with thick thighs? Even as video games have increasingly realistic graphics, the way they depict the female body is anything but average. Now Bulimia.com, an eating [...]
+            </description>
+            <dc:creator>Lauren Orsini, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Lauren Orsini, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/laurenorsini/</atom:url>
+            </atom:author>
+            <guid>55b14109e4b0dee068204015</guid>
+            <pubDate>Thu, 23 Jul 2015 15:38:00 -0400</pubDate>
+            <atom:updated>2015-07-24T10:26:48-04:00</atom:updated>
+            <content:encoded>
+                Anything is possible in the fantasy world of video games. So why is it so hard to imagine Lara Croft with a muffin top or Cortana with thick thighs? Even as video games have increasingly realistic graphics, the way they depict the female body is anything but average. Now Bulimia.com, an eating [...]
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/laurenorsini/files/2015/07/Tifa-Lockhart-Final-Fantasy-e1437680009819.png">
+                <media:thumbnail url="http://blogs-images.forbes.com/laurenorsini/files/2015/07/Tifa-Lockhart-Final-Fantasy-e1437680009819.png"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/erikamorphy/2015/07/26/lyft-makes-starbucks-an-offer-it-couldnt-refuse/
+            </link>
+            <title>Lyft Makes Starbucks An Offer It Couldn't Refuse</title>
+            <description>
+                There has been one nut Starbucks couldn't crack: how to get its employees to work when they didn't have access to good public transportation.
+            </description>
+            <dc:creator>Erika Morphy, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Erika Morphy, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/erikamorphy/</atom:url>
+            </atom:author>
+            <guid>55b46765e4b0dee0682049da</guid>
+            <pubDate>Sun, 26 Jul 2015 01:20:00 -0400</pubDate>
+            <atom:updated>2015-07-26T01:20:05-04:00</atom:updated>
+            <content:encoded>
+                There has been one nut Starbucks couldn't crack: how to get its employees to work when they didn't have access to good public transportation.
+            </content:encoded>
+            <media:content url="http://images.forbes.com/media/assets/forbes_200x200.jpg">
+                <media:thumbnail url="http://images.forbes.com/media/assets/forbes_200x200.jpg"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/niallmccarthy/2015/07/24/where-do-foreign-students-face-the-highest-university-fees-infographic/
+            </link>
+            <title>
+                Where Do Foreign Students Face The Highest University Fees? [Infographic]
+            </title>
+            <description>
+                Studying abroad can prove extremely expensive. Tuition fees vary widely across international universities, as do cost of living expenses. According to HSBC, the United States has the highest average annual fees for international students of any country worldwide – $24,914. Australia isn’t too far behind, with its annual university fees [...]
+            </description>
+            <dc:creator>Niall McCarthy, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Niall McCarthy, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/niallmccarthy/</atom:url>
+            </atom:author>
+            <guid>55b20215e4b0dee06820424e</guid>
+            <pubDate>Fri, 24 Jul 2015 08:05:00 -0400</pubDate>
+            <atom:updated>2015-07-24T08:05:46-04:00</atom:updated>
+            <content:encoded>
+                Studying abroad can prove extremely expensive. Tuition fees vary widely across international universities, as do cost of living expenses. According to HSBC, the United States has the highest average annual fees for international students of any country worldwide – $24,914. Australia isn’t too far behind, with its annual university fees [...]
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/niallmccarthy/files/2015/07/20150724_Student_Fees_Fo_2.jpg">
+                <media:thumbnail url="http://blogs-images.forbes.com/niallmccarthy/files/2015/07/20150724_Student_Fees_Fo_2.jpg"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/steveforbes/2015/07/22/how-the-small-state-of-israel-is-becoming-a-high-tech-superpower/
+            </link>
+            <title>
+                How The Small State Of Israel Is Becoming A High-Tech Superpower
+            </title>
+            <description>
+                The horrific Iran nuclear deal is, these days, overshadowing the miracle of the Israeli economy, particularly in the area of high technology. With the exception of the U.S., Israel--a country of a mere 8 million people--leads the world in high tech, an astonishing feat. In this interview Prime Minister Benjamin [...]
+            </description>
+            <dc:creator>Steve Forbes, Forbes Staff</dc:creator>
+            <atom:author>
+                <atom:name>Steve Forbes, Forbes Staff</atom:name>
+                <atom:url>http://www.forbes.com/sites/steveforbes/</atom:url>
+            </atom:author>
+            <guid>55ae70a4e4b0dee068203115</guid>
+            <pubDate>Wed, 22 Jul 2015 06:30:00 -0400</pubDate>
+            <atom:updated>2015-07-22T06:30:01-04:00</atom:updated>
+            <content:encoded>
+                The horrific Iran nuclear deal is, these days, overshadowing the miracle of the Israeli economy, particularly in the area of high technology. With the exception of the U.S., Israel--a country of a mere 8 million people--leads the world in high tech, an astonishing feat. In this interview Prime Minister Benjamin [...]
+            </content:encoded>
+            <media:content url="http://images.forbes.com/media/assets/forbes_200x200.jpg">
+                <media:thumbnail url="http://images.forbes.com/media/assets/forbes_200x200.jpg"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/robasghar/2015/07/23/taking-control-of-your-personal-brand/
+            </link>
+            <title>Taking Control Of Your Personal Brand</title>
+            <description>
+                Embrace your story. And make sure you’re the primary force in telling that story to the rest of the world. Some people go too far in trying to keep their privacy and their reputation from being damaged in cyberspace. They may shrink their digital presence by minimizing their social-media use or [...]
+            </description>
+            <dc:creator>Rob Asghar, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Rob Asghar, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/robasghar/</atom:url>
+            </atom:author>
+            <guid>55b12c18e4b0dee068203f6a</guid>
+            <pubDate>Thu, 23 Jul 2015 14:10:00 -0400</pubDate>
+            <atom:updated>2015-07-23T14:21:58-04:00</atom:updated>
+            <content:encoded>
+                Embrace your story. And make sure you’re the primary force in telling that story to the rest of the world. Some people go too far in trying to keep their privacy and their reputation from being damaged in cyberspace. They may shrink their digital presence by minimizing their social-media use or [...]
+            </content:encoded>
+            <media:content url="http://specials-images.forbesimg.com/imageserve/d795618acdfcc1a52091309c26a8e4e0/0x600.jpg?fit=scale">
+                <media:thumbnail url="http://specials-images.forbesimg.com/imageserve/d795618acdfcc1a52091309c26a8e4e0/0x600.jpg?fit=scale"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/gordonkelly/2015/07/25/iphone-6s-design-leak-2/
+            </link>
+            <title>
+                New iPhone 6S Photos Confirm Apple's Design Decision
+            </title>
+            <description>
+                Our first look at the front of the new iPhone 6S straight off the production line...
+            </description>
+            <dc:creator>Gordon Kelly, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Gordon Kelly, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/gordonkelly/</atom:url>
+            </atom:author>
+            <guid>55b3b2e4e4b0dee068204866</guid>
+            <pubDate>Sat, 25 Jul 2015 12:30:00 -0400</pubDate>
+            <atom:updated>2015-07-25T13:42:04-04:00</atom:updated>
+            <content:encoded>
+                Our first look at the front of the new iPhone 6S straight off the production line...
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/gordonkelly/files/2015/07/iPhone-6s-Facade-01.jpg">
+                <media:thumbnail url="http://blogs-images.forbes.com/gordonkelly/files/2015/07/iPhone-6s-Facade-01.jpg"/>
+            </media:content>
+        </item>
+        <item>
+            <link>
+                http://www.forbes.com/sites/ewanspence/2015/07/25/apple-music-damaging-reputation/
+            </link>
+            <title>
+                Frustration And Anger As Apple's Reputation Tumbles
+            </title>
+            <description>
+                It has been hard to enjoy Apple's recent releases over the last few months. Updates for iOS appear to be arriving monthly to introduce more bugs than are fixed, OSX is focusing more on eye candy and cloud integration rather than a stable working environment, and Apple's online services are more focused on making money than providing better user experiences. The shine is coming off Apple.
+            </description>
+            <dc:creator>Ewan Spence, Contributor</dc:creator>
+            <atom:author>
+                <atom:name>Ewan Spence, Contributor</atom:name>
+                <atom:url>http://www.forbes.com/sites/ewanspence/</atom:url>
+            </atom:author>
+            <guid>55b41042e4b0dee068204962</guid>
+            <pubDate>Sat, 25 Jul 2015 19:01:00 -0400</pubDate>
+            <atom:updated>2015-07-26T06:08:23-04:00</atom:updated>
+            <content:encoded>
+                It has been hard to enjoy Apple's recent releases over the last few months. Updates for iOS appear to be arriving monthly to introduce more bugs than are fixed, OSX is focusing more on eye candy and cloud integration rather than a stable working environment, and Apple's online services are more focused on making money than providing better user experiences. The shine is coming off Apple.
+            </content:encoded>
+            <media:content url="http://blogs-images.forbes.com/ewanspence/files/2015/03/timcook_square-500x500.jpg">
+                <media:thumbnail url="http://blogs-images.forbes.com/ewanspence/files/2015/03/timcook_square-500x500.jpg"/>
+            </media:content>
+        </item>
+    </channel>
+</rss>
